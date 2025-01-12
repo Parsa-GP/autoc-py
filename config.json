@@ -1,0 +1,14 @@
+[
+    {
+        "trigger_key": "f8",
+        "click_type": "rmb",
+        "frequency": 120,
+        "randomize": true
+    },
+    {
+        "trigger_key": "f10",
+        "click_type": "lmb",
+        "frequency": 18,
+        "randomize": false
+    }
+]
