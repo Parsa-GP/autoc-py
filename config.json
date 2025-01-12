@@ -1,14 +1,12 @@
-[
-    {
-        "trigger_key": "f8",
-        "click_type": "rmb",
+{
+    "f8": {
+        "click_type": "right",
         "frequency": 120,
         "randomize": true
     },
-    {
-        "trigger_key": "f10",
-        "click_type": "lmb",
+    "f10": {
+        "click_type": "left",
         "frequency": 18,
         "randomize": false
     }
-]
+}
